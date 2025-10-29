@@ -1,0 +1,50 @@
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
+
+# vscode configuation files
+.vscode/
+
+# idea configuation files
+.idea/
+
+# Python cache files
+__pycache__/
+
+# build files
+build/
+
+# datasets files
+datasets/
+
+# weights files
+weights/
+
+# logs files
+logs/
